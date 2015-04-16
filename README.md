@@ -1,2 +1,3 @@
 # escolar
-Pagina informativa de cursos y talleres
+Pagina informativa de cursos y talleres.
+git
